@@ -4,3 +4,4 @@ hello from rebase branch
 hii from cherrypick branch
 this is demo for changing commit message and cherry pick command
 will cherry pick commit into master
+this line is created in merge branch and it is merged
